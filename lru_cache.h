@@ -1,11 +1,11 @@
 
 //********************************************************************
 //  
-//
-//  @date:      2018/6/4 20:18
+//  @date:      2019/6/10 
 //  @file:      lru_cache.h
-//  @author:    
-//  @brief:     本地lrucache工具，支持thread-safe, 目前先简单模拟单线程机制看下效率, 后续再优化, 1w key set需要3ms
+//  @author:    ryching
+//  @brief:     本地lrucache工具，支持thread-safe, 
+//              目前先简单模拟单线程机制看下效率, 后续再优化, 1w key set需要3ms
 //
 //********************************************************************
 #ifndef RECOMM_BASELIB_LRU_CACHE_H
